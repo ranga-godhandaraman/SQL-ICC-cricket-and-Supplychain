@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-0" value="Get details&lt;div&gt;START&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-0" value="Get details&lt;div&gt;START&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107" y="161" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -34,7 +34,7 @@
         <mxCell id="iax-5IlQy_Pquo1DeYQX-5" value="Mic/ Cam&lt;div&gt;turns ON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="121" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-6" value="GPS tracker&lt;div&gt;turns ON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-6" value="GPS tracker&lt;div&gt;turns ON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="201" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -43,13 +43,13 @@
             <mxPoint x="477" y="140.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-8" value="AI starts detecting Anomalies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="477" y="121" width="90" height="40" as="geometry" />
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-8" value="AI starts detecting Anomalies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="474" y="117" width="93" height="44" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-9" value="Facial recg/ voice recg/ sentiment analysis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454.5" y="81" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-10" value="Anomaly" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-10" value="Anomaly" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="479" y="181" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -79,7 +79,7 @@
         <mxCell id="iax-5IlQy_Pquo1DeYQX-15" value="Keeps detecting further" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="687" y="206" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-16" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-16" value="NO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="597" y="201" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-17" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -88,7 +88,7 @@
         <mxCell id="iax-5IlQy_Pquo1DeYQX-18" value="Vehicle No, Ph no, Destination" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="126" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-21" value="SERVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-21" value="SERVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="474" y="311" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -100,8 +100,8 @@
         <mxCell id="iax-5IlQy_Pquo1DeYQX-23" value="Sends alert to Mob Ph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455.5" y="351" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-24" value="conformation&amp;nbsp;&lt;div&gt;alert&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="637" y="301" width="30" height="60" as="geometry" />
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-24" value="conformation&amp;nbsp;&lt;div&gt;alert by Passenger&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="634" y="301" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -127,13 +127,13 @@
             <mxPoint x="777" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-29" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-29" value="NO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="777" y="273" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-30" value="Keeps detecting further" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="734.5" y="243" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-31" value="YES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-31" value="YES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="777" y="351" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -142,7 +142,7 @@
             <mxPoint x="807" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iax-5IlQy_Pquo1DeYQX-33" value="Triggers Alert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-33" value="Triggers Alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="767" y="411" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iax-5IlQy_Pquo1DeYQX-34" value="Sends alert to Police station near by 15 KM radius" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
