@@ -85,6 +85,9 @@
         <mxCell id="iax-5IlQy_Pquo1DeYQX-17" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="260" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iax-5IlQy_Pquo1DeYQX-18" value="Vehicle No, Ph no, Destination" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3" y="125" width="135" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
